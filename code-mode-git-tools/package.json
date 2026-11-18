@@ -1,0 +1,15 @@
+{
+  "name": "reverse-string-utility",
+  "version": "1.0.0",
+  "description": "A simple reverse string utility",
+  "main": "reverse-string.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["reverse", "string", "utility"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "29.7.0"
+  }
+}
