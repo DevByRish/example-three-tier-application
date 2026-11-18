@@ -1,0 +1,15 @@
+{
+  "name": "reverse-string-e2e",
+  "version": "1.0.0",
+  "description": "Isolated Jest 29.7.0 test project for reverse-string module",
+  "main": "reverse-string.js",
+  "scripts": {
+    "test": "jest --runInBand"
+  },
+  "keywords": ["reverse", "string", "jest"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "29.7.0"
+  }
+}
