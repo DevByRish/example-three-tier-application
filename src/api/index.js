@@ -4,6 +4,9 @@ const db = require('./db');
 const app = express();
 const PORT = process.env.PORT || 3001;
 
+console.log('Initializing API server...');
+console.log(`Configured PORT: ${PORT}`);
+
 app.use(express.json());
 
 app.get('/health', (_req, res) => {
