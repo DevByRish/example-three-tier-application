@@ -1,0 +1,20 @@
+{
+  "name": "code-mode-pr23-live",
+  "version": "1.0.0",
+  "description": "Isolated reverse-string utility with Unicode support",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "reverse",
+    "string",
+    "unicode",
+    "emoji"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
