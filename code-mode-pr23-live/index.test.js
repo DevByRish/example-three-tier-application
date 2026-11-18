@@ -12,4 +12,8 @@ describe('reverseString', () => {
   test('preserves emoji and Unicode code points', () => {
     expect(reverseString('hello 👋')).toBe('👋 olleh');
   });
+
+  test('reverses string with spaces', () => {
+    expect(reverseString('ab cd')).toBe('dc ba');
+  });
 });
