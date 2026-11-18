@@ -1,0 +1,15 @@
+{
+  "name": "code-mode-panel-smoke",
+  "version": "1.0.0",
+  "description": "Smoke test for code mode panel",
+  "main": "reverse-string.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "29.7.0"
+  }
+}
