@@ -49,5 +49,6 @@ app.patch('/tasks/:id', async (req, res) => {
 });
 
 app.listen(PORT, () => {
+  console.log('PR24 app startup');
   console.log(`API listening on port ${PORT}`);
 });
